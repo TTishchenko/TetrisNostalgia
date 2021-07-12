@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="leftBtID" type="id"/>
+    <item name="rotateBtID" type="id"/>
+    <item name="rightBtID" type="id"/>
+    <item name="dropBtID" type="id"/>
+    <item name="StartNgID" type="id"/>
+    <item name="StartID" type="id"/>
+    <item name="testID" type="id" />
+</resources>
